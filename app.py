@@ -216,7 +216,7 @@ def show_interpretation(prediction_label):
 
 
 def main():
-    st.title("🎓 Student Performance Prediction System")
+    st.title("🎓 Student Evaluation Performance Prediction Using Machine Learning Technique"")
     st.markdown(
         "This app predicts a student's performance category using a trained **Logistic Regression** machine learning model."
     )
