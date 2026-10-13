@@ -1,1 +1,6 @@
-# Student-Evaluation-Performance-Prediction-Using-Machine-Learning-Technique
+Requirements :
+pandas,
+numpy,
+scikit-learn,
+streamlit,
+joblib.
